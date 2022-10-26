@@ -1,0 +1,95 @@
+body {
+  margin: 0;
+  text-align:center;
+  font-family: 'Merriweather', sans-serif;
+  background-color: #EEEEEE;
+}
+
+h1{
+  display: inline-block;
+margin:0;
+font-family: 'sacramento', cursive;
+font-size: 5.625rem;
+color: #66BFBF;
+}
+hr{
+  width: 20%;
+  border-top: 1px dotted #FF7D7D;
+  border-width:5px;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+.mess{
+  background-color: #FF7D7D;
+  color: white;
+  border-radius: 12px;
+  padding: 1%;
+}
+p{
+margin:0;
+}
+.sm {
+  font-size: 25px;
+}
+.top-container{
+  padding-top: 100px;
+  position: relative;
+  background-color: #E4F9F5;
+}
+.pic{
+  padding-top: 50px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 450px;
+  top: 50px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 450px;
+  bottom: 310px;
+}
+.copywrite{
+  color: green;
+}
+.q{
+  display:inline-block;
+  width: 50%;
+}
+.next-page{
+  background-color: yellow;
+}
+.footer-link{
+  margin: 50px;
+  color: #FF7D7D;
+  font-size: 20px;
+}
+.dp{
+  color: white;
+
+}
+.cc {
+  background-color: #E4F9F5;
+}
+a{
+  color: #11999E;
+  margin-top: 500%;
+
+}
+.skills{
+  display: inline-block;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 40px;
+}
